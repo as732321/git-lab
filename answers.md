@@ -83,4 +83,8 @@ Answer 11
     hint: 'git pull' before pushing again.
     hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
+Answer 12:
+    Yes
 
+Answer 13:
+    .  ..  .git  .gitignore  README.md
